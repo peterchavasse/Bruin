@@ -1,0 +1,41 @@
+{
+  	"coffees": [{
+	  		"name": "latte", 
+	  		"hasMilk": true,
+	  		"image": "coffee1"
+  		},
+  		{
+	  		"name": "flat white", 
+	  		"hasMilk": true,
+	  		"image": "coffee2"
+  		},
+  		{
+	  		"name": "espresso", 
+	  		"hasMilk": false,
+	  		"image": "coffee3"
+  		},
+  		{
+	  		"name": "cortado", 
+	  		"hasMilk": true,
+	  		"image": "coffee1"
+  		},
+  		{
+	  		"name": "capuccino", 
+	  		"hasMilk": true,
+	  		"image": "coffee1"
+  		}
+  	],
+  "milks": [{
+	  		"name": "full", 
+	  		"image": "milk1"
+  		},
+  		{
+	  		"name": "skinny white", 
+	  		"image": "milk2"
+  		},
+  		{
+	  		"name": "oat", 
+	  		"image": "milk3"
+  		}
+  	]
+  }
